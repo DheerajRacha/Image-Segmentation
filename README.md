@@ -17,8 +17,8 @@ Download the inria dataset from [Inria Aerial Image Labelling Dataset](https://p
 
         python inference.py
 
-# RGB Image
+### RGB Image
 ![RGB Image](preds/vienna36_99.jpeg)
 
-# Segmented Map
+### Segmented Map
 ![Segmented Map](output/vienna36_99ann.jpeg)
