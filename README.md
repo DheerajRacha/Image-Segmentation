@@ -1,6 +1,9 @@
 # Image-Segmentation
 Segmentation of aerial images using DeepLabv3, to partition these aerial images into two categories buildings and non-buildings (background).
 
+### DeepLabV3
+![DeepLabV3](https://miro.medium.com/max/1037/1*2mYfKnsX1IqCCSItxpXSGA.png)
+
 Download the inria dataset from [Inria Aerial Image Labelling Dataset](https://project.inria.fr/aerialimagelabeling/)
 
 1. The resolution of each image in the dataset is 5000 x 5000. So to increase the size of the dataset and decrease the complexity, slice each image into 100 new images each with resolution 500 x 500
